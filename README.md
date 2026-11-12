@@ -1,4 +1,4 @@
-> **Temporary fork:** SwiftCrossUI 0.10.0 plus the upstream fix in moreSwift/swift-cross-ui#798, until upstream releases it. Then we return to upstream.
+> **Temporary fork:** SwiftCrossUI 0.10.0 plus two upstream fixes, until upstream releases them: the fix merged in moreSwift/swift-cross-ui#798, and the fix proposed in moreSwift/swift-cross-ui#791. Then we return to upstream.
 
 <p align="center">
     <img width="100%" src="banner.png">
